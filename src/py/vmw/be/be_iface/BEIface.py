@@ -1,5 +1,8 @@
+#!/usr/bin/env python3
+
+
 class BEInterface(object):
-    """ This class offers method to interface the Frontend/UI to the Backend """
+    """ This class offers methods to interface the Frontend/UI to the Backend """
 
     def __init__(self):
         print('Class BackendInterface created')

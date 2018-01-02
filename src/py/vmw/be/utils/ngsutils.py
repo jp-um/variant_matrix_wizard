@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"""ngsutils.py: Generic utility multi-platform functions."""
+"""ngsutils.py: NGS-specific functions to read csv or vcf files."""
 
 import io
 import os
